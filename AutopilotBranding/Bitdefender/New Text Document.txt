@@ -1,0 +1,1 @@
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Bitdefender\Endpoint Security\{ad6e797d-624d-4ddd-6154-3ccb6fe14d93}\Install
